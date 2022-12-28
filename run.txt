@@ -1,0 +1,4 @@
+first you must get the virtualenv module
+-    pip install virtualenv
+-    to create: virtualenv venv
+-    to activate: venv/Scripts/activate
